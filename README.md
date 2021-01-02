@@ -1,8 +1,8 @@
 # mini-useful-python-scripts
-This repository includes some useful Python scripts to do all sorts of things. 
+This repository includes some Python scripts that do all sorts of little useful things. 
 
-List of some functions included:
-sending mail, automating GUI movement, countdown, stopwatch, file manipulations, webscraping etc. 
+List of some functions included are: \n
+Sending mail, automating GUI movement, countdown, stopwatch, file manipulations, webscraping etc. 
 
 ## File Structure 
 ```
