@@ -1,5 +1,8 @@
 # mini-useful-python-scripts
 Some useful mini scripts that I had fun building using Python. 
+Does all sorts of things with Python. 
+List of some functions included:
+sending mail, automating GUI movement, countdown, stopwatch, file manipulations, webscraping etc. 
 
 ## File Structure 
 ```
